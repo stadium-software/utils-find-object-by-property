@@ -15,7 +15,7 @@ A script to find an object in a List of objects by a property and value of the o
 3. Add the output parameter below to the Global Script
    1. Result
 4. Drag a *JavaScript* action into the script
-5. Add the Javascript below into the JavaScript code property
+5. Add the Javascript below unchanged into the JavaScript code property
 ```javascript
 /* Stadium Script 1.0 https://github.com/stadium-software/utils-find-object-by-property */
 let arr = ~.Parameters.Input.List;
